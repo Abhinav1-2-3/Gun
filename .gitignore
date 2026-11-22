@@ -1,0 +1,27 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.kotlin
+
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Output / Build directories
+build/
+app/build/
+bin/
+gen/
+out/
+
+# JDK / tools
+tools/
